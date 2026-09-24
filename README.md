@@ -4,9 +4,9 @@
 
 ## Навигация по материалам
 
-*   [Домашние работы](#домашние-работы)
-*   [Лабораторные и практики](#лабораторные-и-практики)
-*   [Проектная деятельность](#проектная-деятельность)
+*   [Домашние работы](https://github.com/Nikolai13072004/-pazzle-portfolio/tree/main/course-2/homeworks)
+*   [Практики](https://github.com/Nikolai13072004/-pazzle-portfolio/tree/main/course-2/practices)
+*   [Проекты](https://github.com/Nikolai13072004/-pazzle-portfolio/tree/main/course-2/projects)
 
 ## Как работать с репозиторием
 
