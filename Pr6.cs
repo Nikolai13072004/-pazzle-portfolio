@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Program
+    internal class Pr6
     {
         static void Main(string[] args)
         {
